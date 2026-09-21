@@ -1,5 +1,5 @@
 {
-  "name": "winston-esim-installer",
+  "name": "esim-installer",
   "private": true,
   "type": "module",
   "scripts": {
