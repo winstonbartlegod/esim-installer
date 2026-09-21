@@ -1,12 +1,20 @@
 # Winston Easy eSIM Installer
 
-<p align="center">
-  <img src="public/og.jpg" alt="Winston Easy eSIM Installer" width="640">
-</p>
-
 I kept getting stuck trying to scan an eSIM QR that was already on my phone. So I made this.
 
-Drop the QR in (or paste the code), and it becomes a link you open on the phone that needs the plan. Tap install. iPhone or Android does the rest.
+Drop the QR in (or paste the code). It becomes a link you open on the phone that needs the plan. Tap install. iPhone or Android does the rest.
+
+This is especially useful if you bought the eSIM from Trip.com or another seller that only gives you a QR code or a link. Instead of digging through Settings, adding a cellular plan, and trying to scan a code that’s already on the same screen, it’s one tap.
+
+You can also send that link to someone else — a parent, a partner, a kid’s travel phone. Elderly relatives who get lost in the Settings steps can just open the message and tap **Install**. It goes straight into the phone’s own eSIM setup with the plan already filled in.
+
+<p align="center">
+  <img src="docs/drop-qr.png" alt="Put the eSIM QR in — upload a screenshot, paste the code, or use the camera">
+</p>
+
+<p align="center">
+  <img src="docs/one-tap.png" alt="One-tap Install on iPhone or Android, plus a shareable link for family">
+</p>
 
 ## What it does
 
@@ -21,8 +29,8 @@ The phone has to be unlocked and actually support eSIM.
 
 ## Use it
 
-1. Put the QR in — a screenshot from the carrier email is fine
-2. Open the link on the phone that needs data
+1. Put the QR in — a screenshot from Trip.com, the carrier email, or any seller is fine
+2. Open the link on the phone that needs data, or send it to family
 3. Tap **Install on iPhone** or **Install on Android**
 
 If the buttons fail, scan the on-screen QR in Settings → Add eSIM, or copy the SM-DP+ address and activation code.
