@@ -4,6 +4,8 @@ I kept getting stuck trying to scan an eSIM QR that was already on my phone. So 
 
 Drop the QR in (or paste the code). It becomes a link you open on the phone that needs the plan. Tap install. iPhone or Android does the rest.
 
+It’s live on my site: [winstonbartle.com/apps/esim-installer](https://www.winstonbartle.com/apps/esim-installer)
+
 This is especially useful if you bought the eSIM from Trip.com or another seller that only gives you a QR code or a link. Instead of digging through Settings, adding a cellular plan, and trying to scan a code that’s already on the same screen, it’s one tap.
 
 You can also send that link to someone else — a parent, a partner, a kid’s travel phone. Elderly relatives who get lost in the Settings steps can just open the message and tap **Install**. It goes straight into the phone’s own eSIM setup with the plan already filled in.
